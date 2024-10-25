@@ -2,7 +2,7 @@ from abc import ABC, abstractmethod
 
 class Command(ABC):
     @abstractmethod
-    def execute(self):
+    def execute(self, sub_command=None):
         pass
 
 class CommandHandler:
@@ -11,16 +11,17 @@ class CommandHandler:
 
     def register_command(self, command_name: str, command: Command):
         self.commands[command_name] = command
-    
-    def execute_command(self, command_name: str):
-        """Look before you leap (LBYL) - Use when its less likely to work
-        if command_name in self.commands:
-            self.commands[command_name].exeucte()
-        else:
-            print(f"No such command: {command_name}")
+
+    def execute_command(self, user_input: str):
+        # Split the input to get command and optional sub-command
+        parts = user_input.strip().split()
+        command_name = parts[0]
+        sub_command = parts[1] if len(parts) > 1 else None
         
-        Easier to ask forgiveness than permission"""
         try:
-            self.commands[command_name].execute()
+            # Execute with the sub_command if it exists
+            self.commands[command_name].execute(sub_command=sub_command)
         except KeyError:
-            print(f"No such command: {command_name }")
+            print(f"No such command: {command_name}")
+        except Exception as e:
+            print(f"Error executing command: {e}")
