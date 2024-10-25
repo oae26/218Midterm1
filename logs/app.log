@@ -144,3 +144,116 @@
 2024-10-25 16:16:00,418 - root - INFO - Application started. Type 'exit' to exit.
 2024-10-25 16:19:36,017 - root - INFO - Application exit.
 2024-10-25 16:19:36,018 - root - INFO - Application shutdown.
+2024-10-25 16:22:46,317 - root - INFO - Logging configured.
+2024-10-25 16:22:46,318 - root - INFO - Environment variables loaded.
+2024-10-25 16:22:46,388 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:22:50,178 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:23:48,387 - root - INFO - Logging configured.
+2024-10-25 16:23:48,388 - root - INFO - Environment variables loaded.
+2024-10-25 16:23:48,468 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:23:52,368 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:23:52,378 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 16:23:52,387 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 16:24:15,208 - root - INFO - Application interrupted and exiting gracefully.
+2024-10-25 16:24:15,208 - root - INFO - Application shutdown.
+2024-10-25 16:24:22,518 - root - INFO - Logging configured.
+2024-10-25 16:24:22,518 - root - INFO - Environment variables loaded.
+2024-10-25 16:24:22,568 - root - INFO - Logging configured.
+2024-10-25 16:24:22,578 - root - INFO - Environment variables loaded.
+2024-10-25 16:24:22,588 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:24:27,308 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:24:28,068 - root - INFO - Logging configured.
+2024-10-25 16:24:28,068 - root - INFO - Environment variables loaded.
+2024-10-25 16:24:28,077 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:24:28,088 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:24:28,338 - root - INFO - Logging configured.
+2024-10-25 16:24:28,347 - root - INFO - Environment variables loaded.
+2024-10-25 16:24:28,348 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:24:28,368 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:28:52,158 - root - INFO - Logging configured.
+2024-10-25 16:28:52,167 - root - INFO - Environment variables loaded.
+2024-10-25 16:28:52,228 - root - INFO - Logging configured.
+2024-10-25 16:28:52,238 - root - INFO - Environment variables loaded.
+2024-10-25 16:28:52,248 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:28:56,868 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:28:57,618 - root - INFO - Logging configured.
+2024-10-25 16:28:57,627 - root - INFO - Environment variables loaded.
+2024-10-25 16:28:57,628 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:28:57,648 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:28:57,838 - root - INFO - Logging configured.
+2024-10-25 16:28:57,848 - root - INFO - Environment variables loaded.
+2024-10-25 16:28:57,848 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:28:57,868 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:30:05,728 - root - INFO - Logging configured.
+2024-10-25 16:30:05,737 - root - INFO - Environment variables loaded.
+2024-10-25 16:30:05,788 - root - INFO - Logging configured.
+2024-10-25 16:30:05,788 - root - INFO - Environment variables loaded.
+2024-10-25 16:30:05,828 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:30:10,807 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:30:11,577 - root - INFO - Logging configured.
+2024-10-25 16:30:11,578 - root - INFO - Environment variables loaded.
+2024-10-25 16:30:11,587 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:30:11,617 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:30:11,847 - root - INFO - Logging configured.
+2024-10-25 16:30:11,848 - root - INFO - Environment variables loaded.
+2024-10-25 16:30:11,857 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:30:11,878 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:33:48,077 - root - INFO - Logging configured.
+2024-10-25 16:33:48,078 - root - INFO - Environment variables loaded.
+2024-10-25 16:33:48,208 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:33:53,937 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:37:02,888 - root - INFO - Logging configured.
+2024-10-25 16:37:02,898 - root - INFO - Environment variables loaded.
+2024-10-25 16:39:09,127 - root - INFO - Logging configured.
+2024-10-25 16:39:09,137 - root - INFO - Environment variables loaded.
+2024-10-25 16:39:16,598 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 16:40:19,337 - root - INFO - Application interrupted and exiting gracefully.
+2024-10-25 16:40:19,347 - root - INFO - Application shutdown.
+2024-10-25 16:40:25,988 - root - INFO - Logging configured.
+2024-10-25 16:40:25,997 - root - INFO - Environment variables loaded.
+2024-10-25 16:40:34,608 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 16:40:37,857 - root - INFO - Application exit.
+2024-10-25 16:40:37,858 - root - INFO - Application shutdown.
+2024-10-25 16:40:41,907 - root - INFO - Logging configured.
+2024-10-25 16:40:41,917 - root - INFO - Environment variables loaded.
+2024-10-25 16:40:50,537 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 16:41:32,447 - root - INFO - Application interrupted and exiting gracefully.
+2024-10-25 16:41:32,457 - root - INFO - Application shutdown.
+2024-10-25 16:42:06,028 - root - INFO - Logging configured.
+2024-10-25 16:42:06,038 - root - INFO - Environment variables loaded.
+2024-10-25 16:42:06,347 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:42:18,717 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:43:52,937 - root - INFO - Logging configured.
+2024-10-25 16:43:52,947 - root - INFO - Environment variables loaded.
+2024-10-25 16:43:53,178 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:44:03,977 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:44:26,547 - root - INFO - Logging configured.
+2024-10-25 16:44:26,558 - root - INFO - Environment variables loaded.
+2024-10-25 16:44:26,858 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 16:44:38,497 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 16:44:38,537 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 16:44:38,547 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 16:45:46,027 - app.plugins.menu - INFO - Displaying available commands.
+2024-10-25 17:13:13,806 - root - INFO - Logging configured.
+2024-10-25 17:13:13,807 - root - INFO - Environment variables loaded.
+2024-10-25 17:13:13,813 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 17:13:14,375 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 17:13:14,376 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 17:13:14,376 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 17:13:16,823 - app.plugins.menu - INFO - Displaying available commands.
+2024-10-25 17:15:58,676 - root - INFO - Application interrupted and exiting gracefully.
+2024-10-25 17:15:58,677 - root - INFO - Application shutdown.
+2024-10-25 17:16:00,830 - root - INFO - Logging configured.
+2024-10-25 17:16:00,830 - root - INFO - Environment variables loaded.
+2024-10-25 17:16:00,834 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 17:16:01,071 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 17:18:55,186 - root - INFO - Logging configured.
+2024-10-25 17:18:55,187 - root - INFO - Environment variables loaded.
+2024-10-25 17:18:55,191 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 17:18:55,503 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 17:18:55,503 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 17:18:55,503 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 17:22:30,523 - app.plugins.menu - INFO - Displaying available commands.
+2024-10-25 17:22:30,524 - app.plugins.menu - INFO - Available commands displayed successfully.
+2024-10-25 17:25:05,512 - root - INFO - Application exit.
+2024-10-25 17:25:05,513 - root - INFO - Application shutdown.

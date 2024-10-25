@@ -2,7 +2,7 @@
 import pytest
 from app import App
 
-def test_app_greet_command(capfd, monkeypatch):
+def test_app_exit_command(capfd, monkeypatch):
     """Test that the REPL correctly handles the 'exit' command."""
     inputs = iter(['exit'])
     monkeypatch.setattr('builtins.input', lambda _: next(inputs))

@@ -3,6 +3,7 @@ import pkgutil
 import importlib
 import sys
 from app.commands import CommandHandler, Command
+from app.plugins.menu import MenuCommand  # Import MenuCommand explicitly if needed
 import logging
 import logging.config
 
@@ -24,7 +25,6 @@ class App:
 
     def load_environment_variables(self):
         settings = {key: value for key, value in os.environ.items()}
-        # print(settings)
         logging.info("Environment variables loaded.")
         return settings
 
@@ -49,8 +49,12 @@ class App:
         for item_name in dir(plugin_module):
             item = getattr(plugin_module, item_name)
             if isinstance(item, type) and issubclass(item, Command) and item is not Command:
-                # Command names are now explicitly set to the plugin's folder name
-                self.command_handler.register_command(plugin_name, item())
+                # Determine if the command requires the CommandHandler upon instantiation
+                if item is MenuCommand:
+                    command_instance = item(self.command_handler)
+                else:
+                    command_instance = item()
+                self.command_handler.register_command(plugin_name, command_instance)
                 logging.info(f"Command '{plugin_name}' from plugin '{plugin_name}' registered.")
 
     def start(self):
