@@ -1,0 +1,7 @@
+2024-10-25 12:01:22,149 - root - INFO - Logging configured.
+2024-10-25 12:01:22,149 - root - INFO - Environment variables loaded.
+2024-10-25 12:01:22,158 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 12:01:22,162 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-25 12:01:22,162 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 12:07:16,281 - root - INFO - Application exit.
+2024-10-25 12:07:16,281 - root - INFO - Application shutdown.
