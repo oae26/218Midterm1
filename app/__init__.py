@@ -64,16 +64,16 @@ class App:
             while True:
                 cmd_input = input(">>> ").strip()
                 if cmd_input.lower() == 'exit':
-                    logging.info("Application exit.")
-                    sys.exit(0)  # Use sys.exit(0) for a clean exit, indicating success.
+                    logging.info("Application exiting.")
+                    sys.exit(0)  # Use sys.exit(0) for an exit with no problems.
                 try:
                     self.command_handler.execute_command(cmd_input)
-                except KeyError:  # Assuming execute_command raises KeyError for unknown commands
+                except KeyError:  # Easier to ask for forgiveness logic, throws an error if something goes awry.
                     logging.error(f"Unknown command: {cmd_input}")
                     sys.exit(1)  # Use a non-zero exit code to indicate failure or incorrect command.
         except KeyboardInterrupt:
-            logging.info("Application interrupted and exiting gracefully.")
-            sys.exit(0)  # Assuming a KeyboardInterrupt should also result in a clean exit.
+            logging.info("Application interrupted by keyboard and exiting with no problems..")
+            sys.exit(0)  # LBYL, we are already implementing functionality for a keyboard interrupt.
         finally:
             logging.info("Application shutdown.")
 

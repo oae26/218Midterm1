@@ -291,3 +291,13 @@
 2024-10-25 17:26:17,800 - root - INFO - Application started. Type 'exit' to exit.
 2024-10-25 17:47:45,165 - root - INFO - Application exit.
 2024-10-25 17:47:45,167 - root - INFO - Application shutdown.
+2024-10-28 19:23:39,563 - root - INFO - Logging configured.
+2024-10-28 19:23:39,564 - root - INFO - Environment variables loaded.
+2024-10-28 19:23:39,569 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-28 19:23:40,026 - root - INFO - Command 'math' from plugin 'math' registered.
+2024-10-28 19:23:40,027 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-28 19:23:40,027 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-28 19:23:42,313 - app.plugins.menu - INFO - Displaying available commands.
+2024-10-28 19:23:42,313 - app.plugins.menu - INFO - Available commands displayed successfully.
+2024-10-28 19:25:08,596 - root - INFO - Application exiting.
+2024-10-28 19:25:08,598 - root - INFO - Application shutdown.
