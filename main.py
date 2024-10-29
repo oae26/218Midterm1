@@ -1,6 +1,6 @@
 #main .py
-from app import App
+from app import Application
 
-# You must put this in your main.py because this forces the program to start when you run it from the command line.
+#creates the app and forces it to run
 if __name__ =="__main__":
-    app = App().start() #Instantiate an instance of App
+    app = Application().launch() #Instantiate an instance of App

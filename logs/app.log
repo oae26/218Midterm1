@@ -301,3 +301,13 @@
 2024-10-28 19:23:42,313 - app.plugins.menu - INFO - Available commands displayed successfully.
 2024-10-28 19:25:08,596 - root - INFO - Application exiting.
 2024-10-28 19:25:08,598 - root - INFO - Application shutdown.
+2024-10-29 15:51:26,188 - root - INFO - Logging is set up successfully.
+2024-10-29 15:51:26,188 - root - INFO - Environment variables are loaded.
+2024-10-29 15:51:51,762 - root - INFO - Logging is set up successfully.
+2024-10-29 15:51:51,762 - root - INFO - Environment variables are loaded.
+2024-10-29 15:51:51,767 - root - INFO - Command 'ExitCommand' from plugin 'exit' registered.
+2024-10-29 15:51:52,241 - root - INFO - Command 'MathCommand' from plugin 'math' registered.
+2024-10-29 15:51:52,241 - root - INFO - Command 'MenuCommand' from plugin 'menu' registered.
+2024-10-29 15:51:52,241 - root - INFO - App is running. Enter 'exit' to quit.
+2024-10-29 15:52:00,987 - root - INFO - Shutting down the app.
+2024-10-29 15:52:00,987 - root - INFO - App has stopped.
