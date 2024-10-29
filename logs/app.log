@@ -311,3 +311,55 @@
 2024-10-29 15:51:52,241 - root - INFO - App is running. Enter 'exit' to quit.
 2024-10-29 15:52:00,987 - root - INFO - Shutting down the app.
 2024-10-29 15:52:00,987 - root - INFO - App has stopped.
+2024-10-29 17:22:33,684 - root - INFO - Logging is set up successfully.
+2024-10-29 17:22:33,684 - root - INFO - Environment variables are loaded.
+2024-10-29 17:22:33,724 - root - INFO - Logging is set up successfully.
+2024-10-29 17:22:33,724 - root - INFO - Environment variables are loaded.
+2024-10-29 17:22:33,725 - root - INFO - Command 'ExitCommand' from plugin 'exit' registered.
+2024-10-29 17:22:34,409 - root - INFO - Command 'MathCommand' from plugin 'math' registered.
+2024-10-29 17:22:34,410 - root - INFO - Command 'MenuCommand' from plugin 'menu' registered.
+2024-10-29 17:22:34,410 - root - INFO - App is running. Enter 'exit' to quit.
+2024-10-29 17:22:34,410 - root - INFO - Shutting down the app.
+2024-10-29 17:22:34,410 - root - INFO - App has stopped.
+2024-10-29 17:22:34,414 - root - INFO - Logging is set up successfully.
+2024-10-29 17:22:34,414 - root - INFO - Environment variables are loaded.
+2024-10-29 17:22:34,415 - root - INFO - Command 'ExitCommand' from plugin 'exit' registered.
+2024-10-29 17:22:34,416 - root - INFO - Command 'MathCommand' from plugin 'math' registered.
+2024-10-29 17:22:34,416 - root - INFO - Command 'MenuCommand' from plugin 'menu' registered.
+2024-10-29 17:22:34,416 - root - INFO - App is running. Enter 'exit' to quit.
+2024-10-29 17:22:34,416 - root - INFO - Shutting down the app.
+2024-10-29 17:22:34,416 - root - INFO - App has stopped.
+2024-10-29 17:22:34,419 - root - INFO - Logging is set up successfully.
+2024-10-29 17:22:34,420 - root - INFO - Environment variables are loaded.
+2024-10-29 17:22:34,420 - root - INFO - Command 'ExitCommand' from plugin 'exit' registered.
+2024-10-29 17:22:34,421 - root - INFO - Command 'MathCommand' from plugin 'math' registered.
+2024-10-29 17:22:34,421 - root - INFO - Command 'MenuCommand' from plugin 'menu' registered.
+2024-10-29 17:22:34,421 - root - INFO - App is running. Enter 'exit' to quit.
+2024-10-29 17:22:34,421 - root - INFO - Shutting down the app.
+2024-10-29 17:22:34,421 - root - INFO - App has stopped.
+2024-10-29 17:23:52,304 - root - INFO - Logging is set up successfully.
+2024-10-29 17:23:52,304 - root - INFO - Environment variables are loaded.
+2024-10-29 17:23:52,306 - root - INFO - Logging is set up successfully.
+2024-10-29 17:23:52,307 - root - INFO - Environment variables are loaded.
+2024-10-29 17:23:52,307 - root - INFO - Command 'ExitCommand' from plugin 'exit' registered.
+2024-10-29 17:23:52,560 - root - INFO - Command 'MathCommand' from plugin 'math' registered.
+2024-10-29 17:23:52,561 - root - INFO - Command 'MenuCommand' from plugin 'menu' registered.
+2024-10-29 17:23:52,561 - root - INFO - App is running. Enter 'exit' to quit.
+2024-10-29 17:23:52,561 - root - INFO - Shutting down the app.
+2024-10-29 17:23:52,561 - root - INFO - App has stopped.
+2024-10-29 17:23:52,565 - root - INFO - Logging is set up successfully.
+2024-10-29 17:23:52,565 - root - INFO - Environment variables are loaded.
+2024-10-29 17:23:52,565 - root - INFO - Command 'ExitCommand' from plugin 'exit' registered.
+2024-10-29 17:23:52,566 - root - INFO - Command 'MathCommand' from plugin 'math' registered.
+2024-10-29 17:23:52,566 - root - INFO - Command 'MenuCommand' from plugin 'menu' registered.
+2024-10-29 17:23:52,566 - root - INFO - App is running. Enter 'exit' to quit.
+2024-10-29 17:23:52,566 - root - INFO - Shutting down the app.
+2024-10-29 17:23:52,566 - root - INFO - App has stopped.
+2024-10-29 17:23:52,568 - root - INFO - Logging is set up successfully.
+2024-10-29 17:23:52,568 - root - INFO - Environment variables are loaded.
+2024-10-29 17:23:52,568 - root - INFO - Command 'ExitCommand' from plugin 'exit' registered.
+2024-10-29 17:23:52,569 - root - INFO - Command 'MathCommand' from plugin 'math' registered.
+2024-10-29 17:23:52,569 - root - INFO - Command 'MenuCommand' from plugin 'menu' registered.
+2024-10-29 17:23:52,569 - root - INFO - App is running. Enter 'exit' to quit.
+2024-10-29 17:23:52,569 - root - INFO - Shutting down the app.
+2024-10-29 17:23:52,569 - root - INFO - App has stopped.
