@@ -6,7 +6,6 @@ dbus-python==1.2.18
 dill==0.3.8
 distlib==0.3.8
 distro==1.7.0
-distro-info==1.1+ubuntu0.1
 exceptiongroup==1.2.0
 filelock==3.16.1
 httplib2==0.20.2
