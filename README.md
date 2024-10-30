@@ -9,7 +9,7 @@
 4. Division of numbers
 5. All of the above functions work with negative and decimal numbers
 
-#Pandas Integration
+# Pandas Integration
 1. You can show the history of calculations >>> math show
 2. You can save the history of calculations >>> math save
 3. You can load a csv file with calculation history >>> math load
