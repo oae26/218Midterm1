@@ -857,3 +857,11 @@
 2024-10-30 10:58:32,917 - app.plugins.menu - INFO - Displaying available commands.
 2024-10-30 10:58:32,921 - app.plugins.menu - INFO - Available commands displayed successfully.
 2024-10-30 10:58:32,928 - app.plugins.menu - INFO - Displaying available commands.
+2024-10-30 11:01:22,098 - root - INFO - Logging is set up successfully.
+2024-10-30 11:01:22,099 - root - INFO - Environment variables are loaded.
+2024-10-30 11:01:22,107 - root - INFO - Command 'ExitCommand' from plugin 'exit' registered.
+2024-10-30 11:01:22,502 - root - INFO - Command 'MathCommand' from plugin 'math' registered.
+2024-10-30 11:01:22,503 - root - INFO - Command 'MenuCommand' from plugin 'menu' registered.
+2024-10-30 11:01:22,503 - root - INFO - App is running. Enter 'exit' to quit.
+2024-10-30 11:01:44,240 - root - INFO - Shutting down the app.
+2024-10-30 11:01:44,240 - root - INFO - App has stopped.
